@@ -1,0 +1,31 @@
+{
+  "name": "match-media",
+  "description": "window.matchMedia state holder",
+  "version": "1.0.0",
+  "author": "Ben P.P. Tung",
+  "browserify": {
+    "transform": [
+      "transforms"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/benpptung/match-media/issues"
+  },
+  "devDependencies": {
+    "component-emitter": "^1.2.1",
+    "transforms": "^0.1.2"
+  },
+  "homepage": "https://github.com/benpptung/match-media#readme",
+  "keywords": [
+    "matchMedia"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benpptung/match-media.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
